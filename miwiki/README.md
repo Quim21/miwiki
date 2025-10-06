@@ -15,5 +15,8 @@
 2. Reggaeton
 3. Pop
 
-
+## Ciutats preferides visitades
+1. Londres
+2. Roma
+3. Paris
 
