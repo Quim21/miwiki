@@ -10,4 +10,10 @@
 2. El club de la lucha
 3. Django
 
+## Generes de musica preferits
+1. Hip-Hop
+2. Reggaeton
+3. Pop
+
+
 
