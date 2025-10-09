@@ -4,6 +4,7 @@
 1. red dead redemption 2
 2. Dying light
 3. Mortal kombat 11
+![Uploading image.png…]()
 
 ## 🎬 Pel·licules preferides 🎬
 1. The amazing spider-man 2
