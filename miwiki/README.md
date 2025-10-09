@@ -1,6 +1,6 @@
 # La meva Wiki personal
-
-## ÌµπÔ∏è Videojocs preferitsÌµπÔ∏è
+![foto programaci√≥n](/c/Users/Usuari/proyecto_github/miwiki/images.jpg)
+##  Videojocs preferits
 1. red dead redemption 2
 2. Dying light
 3. Mortal kombat 11
