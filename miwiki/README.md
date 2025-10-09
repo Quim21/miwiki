@@ -27,6 +27,6 @@
 3. seat
 
 ## Xarxes socials
-📷 Instagram 📷
-▶️ Youtube ▶️
-🐈 Github 🐈
+📷 Instagram 📷  
+▶️ Youtube ▶️  
+🐈 Github 🐈  
