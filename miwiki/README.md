@@ -3,7 +3,7 @@
 
 ![foto programacion](/c/Users/Usuari/proyecto_github/miwiki/images.jpg)
 
-##🕹️ Videojocs preferits 🕹️
+##   Videojocs preferits 🕹️
 1. red dead redemption 2
 2. Dying light
 3. Mortal kombat 11
