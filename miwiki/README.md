@@ -1,7 +1,7 @@
 
 # La meva wiki
 
-![foto programacion](/C/Users/Usuari/proyecto_github/miwiki/images.jpg)
+![foto programacion](images.jpg)
 
 ##   Videojocs preferits 🕹️
 1. red dead redemption 2
