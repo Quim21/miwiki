@@ -1,6 +1,6 @@
 # La meva Wiki personal
 
-## Videojocs preferits
+## ÌµπÔ∏è Videojocs preferitsÌµπÔ∏è
 1. red dead redemption 2
 2. Dying light
 3. Mortal kombat 11
